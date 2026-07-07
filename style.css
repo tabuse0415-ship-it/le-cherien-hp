@@ -421,6 +421,12 @@ ul { list-style: none; }
   margin-bottom: 10px;
   padding-top: 14px;
 }
+.voice-note {
+  text-align: center;
+  font-size: 12px;
+  color: var(--color-text-light);
+  margin-top: 24px;
+}
 
 /* ===== FAQ ===== */
 .faq-list { max-width: 720px; margin: 0 auto; }
